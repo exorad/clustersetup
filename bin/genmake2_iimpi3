@@ -1,0 +1,1 @@
+genmake2 -mods ../code -mpi -of $MITGCM_ROOTDIR/tools/build_options/astro3
